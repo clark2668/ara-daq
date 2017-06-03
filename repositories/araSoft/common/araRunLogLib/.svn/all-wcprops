@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/araRunLogLib
+END
+araRunLogLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/araRunLogLib/araRunLogLib.c
+END
+araRunLogLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/araRunLogLib/araRunLogLib.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/araRunLogLib/Makefile
+END

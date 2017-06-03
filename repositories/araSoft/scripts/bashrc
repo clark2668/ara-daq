@@ -1,0 +1,92 @@
+#
+#
+#
+
+alias lt='ls -altr'
+alias lr='ls -ltr'
+
+alias e='emacs -nw'
+
+alias rm='rm -i'
+alias mv='mv -i'
+
+alias nfiles='find /data/ARAAcqdData/current/event -name "ev_*.dat" -print | wc -l'
+alias startNewRun='startNewRun ; date'
+alias addtempsensor='su -c "echo tmp102 0x48 > /sys/class/i2c-adapter/i2c-1/new_device"'
+alias findsleep='ps eax | grep sleep | grep SERVER | grep -v grep'
+alias newfiles='lr /data/ARAAcqdData/current/event/*'
+alias radproc='ssh -Y -C -l radio radproc.sps.icecube.southpole.usap.gov'
+
+export YEAR=2013
+
+source ~/WorkingDAQ/setupAraDaq.sh
+
+function setupDAQ()
+{
+
+ ~/WorkingDAQ/scripts/progFwStartDAQ.sh
+ sleep 5;
+ echo -e "jpd\n Reprogrammed DAQ Firmware and restarted DAQ software" | startNewRun;
+}
+
+function startDAQ()
+{
+
+ ~/WorkingDAQ/scripts/stopAraSoft.sh
+ ~/WorkingDAQ/scripts/startAraSoftWithTimeRecord.sh
+ sleep 5;
+ echo -e "jpd\n Restarted DAQ software" | startNewRun;
+
+}
+
+function stopDAQ(){
+ ~/WorkingDAQ/scripts/stopAraSoft.sh
+}
+
+function checkDAQ(){
+    df -h;
+    echo "runlog last 30 lines ----------------------"
+    tail -n 30 /tmp/ARAAcqdData/runlog
+    echo "acqd.log last 30 lines ----------------------"
+    tail -n 30 ~/LogFiles/acqd.log 
+}
+
+
+function checkDisk(){
+    df -h;
+}
+
+function checkRunLog(){
+    echo "Date on SBC"
+    date;
+    echo "runlog last 30 lines ----------------------"
+    tail -n 30 /tmp/ARAAcqdData/runlog
+}
+
+function checkAraSoftLog(){
+    echo "Date on SBC"
+    date;
+    echo "acqd.log last 30 lines ----------------------"
+    tail -n 30 ~/LogFiles/acqd.log 
+}
+
+function cleanupLogs(){
+
+    echo "Removing all but last acqd logs"
+
+    ls -1tr ~/LogFiles/acqd* | head -n -2 | xargs -d '\n' rm -f
+
+    echo "Removing all but last arad logs"
+
+    ls -1tr ~/LogFiles/arad* | head -n -2 | xargs -d '\n' rm -f
+
+    echo "Removing all DataPush Logs"
+
+    rm -rf ~/LogFiles/DataPush/; mkdir ~/LogFiles/DataPush/
+    touch /home/ara/LogFiles/DataPush/DataPush.service.logfile
+    echo "Removing all PedPush logs"
+
+    rm -rf ~/LogFiles/PedResultsPush/; mkdir ~/LogFiles/PedResultsPush/
+    touch /home/ara/LogFiles/PedResultsPush/PedResultsPush.logfile
+
+}

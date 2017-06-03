@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/kvpLib
+END
+keyValuePair.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/kvpLib/keyValuePair.c
+END
+keyValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/kvpLib/keyValuePair.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/kvpLib/Makefile
+END

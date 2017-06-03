@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2892/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAAcqd
+END
+ARAAcqd.clutched_for_event_dumping.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAAcqd/ARAAcqd.clutched_for_event_dumping.c
+END
+ARAAcqd.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAAcqd/ARAAcqd.h
+END
+ARAAcqd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2892/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAAcqd/ARAAcqd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAAcqd/Makefile
+END

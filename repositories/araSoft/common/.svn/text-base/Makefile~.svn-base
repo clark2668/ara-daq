@@ -1,0 +1,19 @@
+# 
+# ARA utility libraries
+#
+
+include ${ARA_DAQ_DIR}/standard_definitions.mk
+
+SUBDIRS =utilLib kvpLib configLib 
+
+all: subdirs
+
+subdirs:
+	@for aDir in $(SUBDIRS); do \
+	( cd $$aDir ; make ) ; \
+	done
+
+clean:
+	@for aDir in $(SUBDIRS); do \
+	( cd $$aDir ; make clean ) ; \
+	done

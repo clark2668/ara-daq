@@ -1,0 +1,84 @@
+//The ARAACqd config file
+<log>
+printToScreen#1=7;   //Controls the verbosity to screen
+logLevel#I1=0; //Controls the verbosity to disk
+atriControlLog#I1=0; //Enables the atriControl debug log
+atriEventLog#I1=0; //Enables the atriEvent debug log
+enableEventRateReport#I1=1; //Enable the reporting of the event rate 
+eventRateReportRateHz#F1=0.2; //Event rate reporting rate Hz        
+</log>
+
+<acq>
+doAtriInitialisation#I1=1; //Do the ATRI initialisation in the prepare phase
+standAlone#I1=1; // Deprecated
+numEvents#I1=100; // Deprecated
+enableHkRead#I1=1; //Deprecated
+eventHkReadRateHz#F1=2; //Readout rate of event housekeeping
+sensorHkReadPeriod#I1=10; //Readout period (seconds) of sensor housekeeping
+pedestalMode#I1=0; // Implemented
+pedestalNumTriggerBlocks#I1=12; //Number of blocks read out in a pedestal event, must be even and max is 16
+pedestalSamples#I1=20; // Number of events per block per pedestal run
+pedestalDebugMode#I1=1; //Write out pedestal events
+vdlyScan#1=0; //Do a scan ofVdly vs. WilkinsonCounter			
+stackEnabled#I4=1,1,1,1; //Which stacks are enabled 0,1,2,3
+</acq>
+
+<thresholds>
+thresholdScan#I1=0;  //Perform a threshold scan
+thresholdScanSingleChannel#I1=0;  //Perform a threshold scan on a single channel
+thresholdScanSingleChannelNum#I1=10;  //Channel number for thresholdScanSingleChannel
+thresholdScanStep#I1=50; ///Threshold scan step size
+thresholdScanPoints#I1=400; ///Number of threshold scan points
+thresholdScanStartPoint#I1=15000; ///Start value for the scan
+setThreshold#I1=1; //Enable threshold setting
+useGlobalThreshold#I1=0; //Enable a global threshold for all 16 DAC values
+globalThreshold#1=20000; // The global threshold if enables
+thresholdValues#I16=31003,32976,31263,27446,34132,32166,32647,33218,27365,29685,31783,31551,31604,23635,31853,30714;//JPD 26th Jan values
+setSurfaceThreshold#I1=0; /// Actually set the surface thresholds?
+surfaceBoardStack#I1=1; ///Which stack has a surface board 0-3 counting
+surfaceThresholdValues#I4=1000,1000,1000,1000;
+</thresholds>
+
+<trigger>
+numSoftTriggerBlocks#1=8; ///Number of software trigger blocks... must be even and max=16
+enableRF0Trigger#I1=1; // Enable RF0 (Deep) triggers
+enableRF1Trigger#I1=0; // Enable RF1 (Surface) triggers
+enableCalTrigger#I1=0; // Enable cal (timed) triggers
+enableExtTrigger#I1=0; // Enable external triggers
+enableSoftTrigger#I1=0; //Enable software triggers
+enableRandTrigger#I1=0; //Not yet implemented
+softTriggerRateHz#F1=10.0; //Software trigger rate in Hz
+randTriggerRateHz#F1=1.5; //Not yet implemented
+</trigger>
+
+<servo>
+initialVadj#I4=17795,17725,17602,17676; ///< Initial Vadj (=BR5 Recalculated 30Nov2012 using BR3 measured data at -40C)
+initialVdly#I4=30960,30710,30825,31235; ///< Initial Vdly (Recalculated in Ice at ARA01 site)
+initialVbias#I4=15728,0,0,0; ///<Initial Vbias //jpd
+initialIsel#I4=38465,0,0,0; //34078,0,0,0; ///<Initial Isel //jpd
+enableVdlyServo#I1=1; ///< Vdly servo for the wilkinson	
+wilkinsonGoal#I1=6200; ///< Goal target for the wilkinson (change from 7500 to 6200 as per PSA on Oct 1 2012)
+vdlyPGain#F1=-8.0; ///< Gain for the proportional part of the servo
+vdlyIGain#F1=0.12; ///< Gain for the integral part of the servo
+vdlyDGain#F1=-3; ///< Gain for the differential part of the servo
+vdlyIMax#F1=100000; ///< Maximum integral value
+vdlyIMin#F1=-100000; ///< Minimum integral value
+enableAntServo#I1=1; ///<Enables the antenna (L1) servo
+scalerGoalValues#I16=400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400; //
+scalerPGain#F1=0.1; ///< Gain for the proportional part of the servo
+scalerIGain#F1=0.001; ///< Gain for the integral part of the servo
+scalerDGain#F1=0.00; ///< Gain for the differential part of the servo
+scalerIMax#F1=100000; ///< Maximum integral value
+scalerIMin#F1=-100000; ///< Minimum integral value
+enableSurfaceServo#I1=0; ///Not yet implemented
+surfaceGoalValues#I4=500,500,500,500; ///Not yet implemented			
+enableRateServo#I1=1;  // Not yet implemented
+servoCalcPeriodS#F1=1;  //Not yet implemented
+servoCalcDelayS#F1=10;  //Not yet implemented
+rateGoalHz#F1=5;  //Not yet implemented
+ratePGain#F1=0.5; //Not yet implemented
+rateIGain#F1=0.01; //Not yet implemented
+rateDGain#F1=0.00; //Not yet implemented
+rateIMax#F1=100; //Not yet implemented
+rateIMin#F1=-100; //Not yet implemented 
+</servo>

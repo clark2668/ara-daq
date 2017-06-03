@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd
+END
+xvcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd/xvcd.c
+END
+fx2jtag.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd/fx2jtag.c
+END
+fx2standalone10.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd/fx2standalone10.c
+END
+fx2jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd/fx2jtag.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd/Makefile
+END
+fx2standalone.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/xvcd/fx2standalone.h
+END

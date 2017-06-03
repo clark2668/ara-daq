@@ -1,0 +1,15 @@
+
+#Jonathan's first makefile
+
+: usbIO.o usbInterface.o
+
+	g++  usbIO.o usbInterface.o -o usbIO -L/usr/lib/ -lusb-1.0
+
+usbIO.o: usbIO.cxx
+	g++  -c usbIO.cxx -I/usr/include/libusb-1.0/
+
+usbInterface.o: usbInterface.h usbInterface.cxx
+	g++  -c usbInterface.cxx -I/usr/include/libusb-1.0/	
+
+clean: 
+	rm *.o

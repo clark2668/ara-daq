@@ -1,0 +1,13 @@
+exclude logs
+exclude sensorHk
+exclude peds
+exclude eventHk
+exclude monitorHk
+exclude event
+exclude *.log
+exclude ScopeTrace*
+exclude link
+exclude current
+exclude lost+found
+exclude CalibrationLogBook
+include pedestal*

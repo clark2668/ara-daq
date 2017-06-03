@@ -1,0 +1,24 @@
+<output>
+topDataDir#S=/tmp/ARAAcqdData; //The data directory
+linkDir#S=/tmp/ARAAcqdData/link; //Link directory for transferring files 
+linkForXfer#I1=0; //Actually make links for transferring files
+filesPerDir#I1=100; //Files before need a new subdirectory
+eventsPerFile#I1=100; //Events per file
+hkPerFile#I1=1000; // Hk objects per file
+compressionLevel#I1=5; //zlib compression level
+monitorPeriod#I1=60; ///< Period between disk space checks
+</output>
+
+<log>
+printToScreen#I1=8; //arad debugging level
+logLevel#I1=0; ///arad logging level
+</log>
+
+<runControl>
+startRunOnStart#I1=0;  ///< If set to 1 then ARAd will try and restart runs when it starts up
+restartRunsEvery#I1=21600; ///< If set to 0 will do nothing otherwise will restart runs every N seconds
+pedestalRunEveryNRuns#I1=4; ///< Will take a pedestal run every Nth run
+startRunIfAcqdIdle#I1=60; ///< Starts a run if Acqd is idle for more than N seconds
+startAcqdIfNotRunning#I1=60; ///< Starts Acqd if it is not running for more than N seconds
+</runControl>
+	

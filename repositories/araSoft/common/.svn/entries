@@ -1,0 +1,129 @@
+10
+
+dir
+2904
+http://svnmsn.icecube.wisc.edu/ara/Software/ATRI_DAQ/araSoft/branches/R4.8/common
+http://svnmsn.icecube.wisc.edu/ara
+
+
+
+2015-12-13T20:07:37.014555Z
+2872
+jkelley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d8a59d42-d5e9-4b05-92fb-be7e80f78f5f
+
+araRunControlLib
+dir
+
+araRunLogLib
+dir
+
+calpulserLib
+dir
+
+i2cComLib
+dir
+
+utilLib
+dir
+
+atriComLib
+dir
+
+ddaeControlLib
+dir
+
+fx2ComLib
+dir
+
+atriControlLib
+dir
+
+kvpLib
+dir
+
+Makefile~
+file
+
+
+
+
+2017-06-03T15:20:16.975472Z
+943990390b3c5efd820a1dbfa8c844dc
+2011-06-27T05:23:56.637934Z
+574
+ara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+277
+
+configLib
+dir
+
+Makefile
+file
+
+
+
+
+2017-06-03T15:20:16.984472Z
+6c069f92657819428bc751e0059354f6
+2013-06-20T20:52:10.477780Z
+2352
+jdavies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+355
+

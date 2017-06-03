@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl
+END
+checkRunIsDone.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/checkRunIsDone.c
+END
+startPedestalRun.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/startPedestalRun.c
+END
+stopRunFromCommandLine.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/stopRunFromCommandLine.c
+END
+startNewRunFromCommandLine.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/startNewRunFromCommandLine.c
+END
+araRunControl.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/araRunControl.c
+END
+stopRun.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/stopRun.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/Makefile
+END
+startNewRun.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/araRunControl/startNewRun.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAd
+END
+ARAd.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAd/ARAd.c
+END
+ARAd.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAd/ARAd.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/ARAd/Makefile
+END

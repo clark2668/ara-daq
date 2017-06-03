@@ -1,0 +1,2 @@
+#!/bin/bash
+exec setuidgid ara bash /service/ATATMonitor/ATATMonitor.abbrievated.bash 2>&1 >>/service/ATATMonitor/ATATMonitor.output

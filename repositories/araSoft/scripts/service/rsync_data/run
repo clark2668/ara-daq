@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir -p /tmp/LogFiles/DataPush
+chown ara.ara /tmp/LogFiles 
+chown ara.ara /tmp/LogFiles/DataPush
+touch /tmp/LogFiles/DataPush/DataPush.logfile
+chown ara.ara /tmp/LogFiles/DataPush/DataPush.logfile
+exec /usr/local/bin/setuidgid ara /bin/bash /service/rsync_data/DataPush.for_ATRI.bash >>/tmp/LogFiles/DataPush/DataPush.logfile

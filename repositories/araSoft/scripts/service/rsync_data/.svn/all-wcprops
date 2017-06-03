@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_data
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_data/run
+END
+DataPush.for_ATRI.bash_miniATRI
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_data/DataPush.for_ATRI.bash_miniATRI
+END
+DataPush.for_ATRI.bash
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_data/DataPush.for_ATRI.bash
+END

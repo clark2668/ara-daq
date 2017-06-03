@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/atriComLib
+END
+atriCom.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/atriComLib/atriCom.c
+END
+atriCom.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/atriComLib/atriCom.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/atriComLib/Makefile
+END

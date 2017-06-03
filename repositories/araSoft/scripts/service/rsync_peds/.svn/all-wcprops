@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_peds
+END
+CopyPedsAndRemoveDirs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_peds/CopyPedsAndRemoveDirs.sh
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_peds/run
+END
+PedResultsPush.for_ATRI.bash_miniATRI
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_peds/PedResultsPush.for_ATRI.bash_miniATRI
+END
+filter_rules.rsync_pedestal_info_only
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_peds/filter_rules.rsync_pedestal_info_only
+END
+PedResultsPush.for_ATRI.bash
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service/rsync_peds/PedResultsPush.for_ATRI.bash
+END

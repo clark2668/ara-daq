@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ara/!svn/ver/2883/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts
+END
+loadprog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/loadprog.sh
+END
+progFwStartDAQ.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/progFwStartDAQ.sh
+END
+clockset_real.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/clockset_real.sh
+END
+setupAraDaq.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/setupAraDaq.sh
+END
+startARAAcqd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/startARAAcqd.sh
+END
+startAraSoft.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/startAraSoft.sh
+END
+startARAd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/startARAd.sh
+END
+simpleDataPush.bash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/simpleDataPush.bash
+END
+startAraSoftWithTimeRecord.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/startAraSoftWithTimeRecord.sh
+END
+bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/bashrc
+END
+loadFX2Firmware.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/loadFX2Firmware.sh
+END
+arasoft.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/arasoft.sh
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/setup.sh
+END
+simpleStartAcqd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/simpleStartAcqd.sh
+END
+init.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/init.sh
+END
+setuproot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/setuproot.sh
+END
+programFPGA.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/programFPGA.sh
+END
+stopAraSoft.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2883/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/stopAraSoft.sh
+END

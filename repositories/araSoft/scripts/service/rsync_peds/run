@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir -p /tmp/LogFiles/PedResultsPush
+chown ara.ara /tmp/LogFiles 
+chown ara.ara /tmp/LogFiles/PedResultsPush
+touch  /tmp/LogFiles/PedResultsPush/pedLogFile
+chown ara.ara  /tmp/LogFiles/PedResultsPush/pedLogFile
+exec /usr/local/bin/setuidgid ara /bin/bash /service/rsync_peds/CopyPedsAndRemoveDirs.sh >> /tmp/LogFiles/PedResultsPush/pedLogFile

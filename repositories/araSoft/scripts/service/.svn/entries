@@ -1,0 +1,37 @@
+10
+
+dir
+2904
+http://svnmsn.icecube.wisc.edu/ara/Software/ATRI_DAQ/araSoft/branches/R4.8/scripts/service
+http://svnmsn.icecube.wisc.edu/ara
+
+
+
+2014-05-09T08:14:51.055074Z
+2795
+rnichol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d8a59d42-d5e9-4b05-92fb-be7e80f78f5f
+
+ATATMonitor
+dir
+
+rsync_data
+dir
+
+rsync_peds
+dir
+

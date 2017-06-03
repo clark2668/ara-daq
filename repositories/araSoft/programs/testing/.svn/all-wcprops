@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing
+END
+wbw.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/wbw.c
+END
+sendFx2ControlPacketHex.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/sendFx2ControlPacketHex.sh
+END
+sendAtriControlPacketHex.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/sendAtriControlPacketHex.sh
+END
+dbWriteIdentify.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/dbWriteIdentify.cc
+END
+sendFx2ControlPacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/sendFx2ControlPacket.c
+END
+sendAtriControlPacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/sendAtriControlPacket.c
+END
+atriDoThresholdScan.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriDoThresholdScan.c
+END
+fxprogram.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/fxprogram.c
+END
+dbi2cr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/dbi2cr.c
+END
+atriGetDaughters.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriGetDaughters.c
+END
+atriReadEventStatistics.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriReadEventStatistics.c
+END
+dbi2cw.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/dbi2cw.c
+END
+atriReadWilkinsonSpeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriReadWilkinsonSpeed.c
+END
+atriSetVdly.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriSetVdly.c
+END
+atriSetThresholds.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriSetThresholds.c
+END
+atriDoSurfaceThresholdScan.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriDoSurfaceThresholdScan.c
+END
+atriSetReadoutDelay.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriSetReadoutDelay.c
+END
+atriSetVadj.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriSetVadj.c
+END
+atriReadThresholdScalars.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriReadThresholdScalars.c
+END
+atriUsefulDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriUsefulDefines.h
+END
+atriInitializeDaughters.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriInitializeDaughters.c
+END
+wbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/wbr.c
+END
+atriScalerMonitoring_OnlyReadsScalers.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/atriScalerMonitoring_OnlyReadsScalers.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/Makefile
+END
+uh_system_startup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/programs/testing/uh_system_startup.bash
+END

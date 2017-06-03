@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib
+END
+icecali2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/icecali2c.c
+END
+ace2.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/ace2.h
+END
+calpulser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/calpulser.h
+END
+icecal.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/icecal.c
+END
+icecalace2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/icecalace2.h
+END
+icecali2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/icecali2c.h
+END
+ICECALICD.H
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/ICECALICD.H
+END
+icecal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/icecal.h
+END
+ace2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/ace2.c
+END
+calpulser.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/calpulser.c
+END
+icecalace2.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/icecalace2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/calpulserLib/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib
+END
+configError.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib/configError.c
+END
+configFileSpec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib/configFileSpec.c
+END
+configLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib/configLib.h
+END
+configStore.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib/configStore.c
+END
+configLoad.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib/configLoad.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2873/Software/ATRI_DAQ/araSoft/branches/R4.8/common/configLib/Makefile
+END

@@ -1,0 +1,10 @@
+#jpd
+
+The file 71-ara-rules.rules is a udev rules file that can be used to make USB devices present themselves as user read / writeable
+
+Simply copy 71-ara-rules.rules to /etc/udev/rules.d/ and set the permissions to -rw-r--r--
+
+You may need to edit the following part of the rules file
+
+OWNER="thomson" to OWNER="ara"
+
