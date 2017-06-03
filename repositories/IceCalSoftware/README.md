@@ -1,5 +1,5 @@
 # IceCalSoftware
-This is the IceCalSoftware from the ARA SVN. Imported by B. Clark on June 3 2017 from Revision 2904 of the [ARA SVN] (http://svnmsn.icecube.wisc.edu/ara/Software/ATRI_DAQ/IceCalSoftware/).
+This is the IceCalSoftware from the ARA SVN. Imported by B. Clark on June 3 2017 from Revision 2904 of the [ARA SVN](http://svnmsn.icecube.wisc.edu/ara/Software/ATRI_DAQ/IceCalSoftware/).
 
 From the Original README:
 
