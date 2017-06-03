@@ -1,3 +1,6 @@
 [submodule "repositories/atri-pcie"]
 	path = repositories/atri-pcie
 	url = https://github.com/ara-daq-hw/atri-pcie.git
+[submodule "repositories/ArafeMasterSoftware"]
+	path = repositories/ArafeMasterSoftware
+	url = https://github.com/ara-daq-hw/ArafeMasterSoftware.git
