@@ -214,7 +214,9 @@ int main(int argc, char **argv) {
       if (icecalGetConnType() != icConnIceCal) {
 	printf("icecald: ignoring iceB command, no IceCal connection present\n");
       }
-      id = strtoul(*argv+strlen("iceB"), NULL, 16);
+      argv++;
+      argc--;
+      id = strtoul(*argv, NULL, 16);
       retval = icecalAssign(auxFd, id, ICECAL_PORTB);
       if (retval < 0) {
 	fprintf(stderr, "icecald: error %d assigning ID %8.8x to port B.\n", retval, id);
